@@ -115,5 +115,5 @@
 
 
 // gcc makedll.c -c -o makedll.o
-// gcc dll_name.c makedll.o -shared -o dll_name.dll
+// gcc dll_name.c makedll.o -o dll_name.dll -shared
 // del *.o

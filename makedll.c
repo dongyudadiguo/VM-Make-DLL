@@ -114,6 +114,6 @@
 // // void function(void){...}
 
 
-// gcc makedll.c -c -o makedll.o
+// gcc makedll.c -o makedll.o -c
 // gcc dll_name.c makedll.o -o dll_name.dll -shared
 // del *.o

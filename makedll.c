@@ -93,9 +93,6 @@
     }
 #endif
 
-//To make "vm-dll" you need to have the following code as the file, 
-//and then you can refer to the last compilation directive
-
 // #include <stdio.h>
 // #include <stdlib.h>
 // #include <string.h>
